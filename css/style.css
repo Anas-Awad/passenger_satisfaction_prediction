@@ -61,7 +61,7 @@ a:hover {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("https://github.com/Anas-Awad/passenger_satisfaction_prediction/blob/main/images/plane.jpg");
+  background: url("./images/plane.jpg");
   background-size: cover;
 }
 
